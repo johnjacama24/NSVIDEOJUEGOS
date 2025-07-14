@@ -34,7 +34,7 @@ inv_estado_aprendiz = {v: k for k, v in dicc_estado_aprendiz.items()}
 # ------------------------------
 # Interfaz de usuario
 # ------------------------------
-st.title("🧠 Predicción del Riesgo de Deserción MEDIOS GRÁFICOS VISUALES")
+st.title("🧠 Predicción del Riesgo de Deserción VIDEOJUEGOS")
 st.markdown("Seleccione las opciones correspondientes y presione el botón para predecir.")
 
 # Campos de entrada
